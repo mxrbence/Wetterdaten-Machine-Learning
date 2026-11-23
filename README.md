@@ -11,4 +11,14 @@ Die Python Codes und die Theorie dahinter wird auch Schritt für Schritt erklär
 Die Python Codes und die Erklärungen wurden mit Hilfe von KI (ChatGPT)erstellt.
 
 
+## Usage of the files:
+
+The scripts folder contains the following files:
+
+"Weather_Image_Classification_python.py":
+Complete Python code with data preparation, creating Convolutional Neural Network, training and validation including detaild explanation line by line.
+
+"Weather_Image_Classification_jupyter".ipynb:
+Jupyter notebook version of the above mentioned "Weather_Image_Classification_python.py" file.
+
 
