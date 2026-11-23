@@ -5,15 +5,15 @@ In diesem Projekt werden Wetterdaten - Bilder mit Hilfe von Deep Learning und Op
 # Project Requirements
 Ein Deep Learning Algorithmus aufzubauen, der aus der Fotos von der Kaggle Image Dataset lernt Bilder in Wetterkategorien zu klassifizieren.
 
-## Objective:
+# Objective:
 Mein Ziel war ein Machine Learning Projekt in Python basierend auf gut erprobte Dataset zu erstellen und den Code detailliert zu verstehen.
 Die Python Codes und die Theorie dahinter wird auch Schritt für Schritt erklärt.
 Die Python Codes und die Erklärungen wurden mit Hilfe von KI (ChatGPT)erstellt.
 
 
-## Verwendung der Dateien
+# Verwendung der Dateien
 
-# Der Ordner „scripts“ enthält folgende Dateien:
+## Der Ordner „scripts“ enthält folgende Dateien:
 
 „Weather_Image_Classification_python.py“:
 Vollständiger Python-Code mit Datenaufbereitung, Erstellung eines Convolutional Neural Networks (CNN), Training und Validierung des Modells. Der Code enthält außerdem detaillierte Erläuterungen zu den einzelnen Programmzeilen.
