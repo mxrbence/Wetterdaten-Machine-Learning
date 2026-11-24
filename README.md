@@ -31,3 +31,7 @@ Weitere Varianten des Scripts „Weather_Image_Classification_python.py“: Sieh
 - "Weather_Image_Classification_EarlyStopping_python"
 - "Weather_Image_Classification_EarlyStopping_Data_Augmentation_python"
 - "Weather_Image_Classification_EarlyStopping_Data_Augmentation_LR_0005_python"
+
+# Report, Auswertung:
+
+In dem "report" Ordner: "Wetterdaten_Bilder_klassifizieren_20261124" mit detaillierter Auswertung der CNN Varianten.
