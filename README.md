@@ -1,5 +1,5 @@
 # Wetterdaten-Machine-Learning
-In diesem Projekt werden Wetterdaten - Bilder mit Hilfe von Deep Learning und OpenCV analisiert. 
+In diesem Projekt werden Wetterdaten - Bilder mit Hilfe von Deep Learning und OpenCV klassifiziert. 
 
 
 # Project Requirements
