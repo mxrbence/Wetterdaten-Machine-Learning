@@ -26,3 +26,8 @@ Python-Skript zum Herunterladen des Datensatzes und zur Anzeige eines einzelnen 
 
 „Weather_Image_Classification_Prediction_Of_New_Image.py“:
 Python-Code zur Vorhersage der Wetterklasse neuer Bilder mithilfe des zuvor trainierten und validierten CNN-Modells.
+
+Weitere Varianten des Scripts „Weather_Image_Classification_python.py“: Siehe Details in den Präsentation in "reports" 
+- "Weather_Image_Classification_EarlyStopping_python"
+- "Weather_Image_Classification_EarlyStopping_Data_Augmentation_python"
+- "Weather_Image_Classification_EarlyStopping_Data_Augmentation_LR_0005_python"
